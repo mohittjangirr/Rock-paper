@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Lester Cardoz - Broken Rock Paper Scissors</title>
+<title> f0f8a33c Mohit</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
